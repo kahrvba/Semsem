@@ -89,8 +89,10 @@ export default function BakeryWebsite() {
             <div>
               <h2 className="font-serif text-3xl md:text-4xl mb-6">Our Sweet Story</h2>
               <p className="text-[#7D6E83] mb-4 leading-relaxed">
-                We're final-year students from the Business Department, and this website is the core of our graduation project. It represents months of planning, teamwork, and execution.
-              </p>
+              I'm Mahfoodh Karman a final-year student from the Business Department, and this website is the core of my graduation project. It represents months of planning, teamwork, and execution.
+              I wanted to bring a business idea to life—so I created a bakery brand from scratch, complete with a full digital presence. This included branding, marketing, and an e-commerce-ready website.
+              This project is more than just a school requirement.
+              It's a real-world application of what I have learned, and a reflection of my passion for entrepreneurship and building meaningful customer experiences.              </p>
               <p className="text-[#7D6E83] mb-4 leading-relaxed">
                 We wanted to bring a business idea to life—so we created a bakery brand from scratch, complete with a full digital presence. This included branding, marketing, and an e-commerce-ready website.
               </p>
@@ -120,37 +122,37 @@ export default function BakeryWebsite() {
           <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-8">
             {[
               {
-                name: "Vanilla Dream",
-                description: "Light vanilla sponge with Swiss meringue buttercream and fresh berries",
+                name: "Chocolate mini Pancake",
+                description: "Light chocolate sponge with Swiss meringue buttercream and fresh berries",
                 price: "$45",
                 image: "/cakes/1.jpeg?height=500&width=500",
               },
               {
-                name: "Chocolate Decadence",
+                name: "Sweet lotus mini pancake",
                 description: "Rich chocolate layers with ganache filling and chocolate shavings",
                 price: "$48",
                 image: "/cakes/2.jpeg?height=500&width=500",
               },
               {
-                name: "Strawberry Bliss",
+                name: "White Chocolate mini pancake",
                 description: "Delicate strawberry cake with cream cheese frosting and fresh strawberries",
                 price: "$50",
                 image: "/cakes/3.jpeg?height=500&width=500",
               },
               {
-                name: "Lemon Sunshine",
+                name: "Chocolate waffles",
                 description: "Zesty lemon cake with lemon curd filling and Italian meringue",
                 price: "$47",
                 image: "/cakes/4.jpeg?height=500&width=500",
               },
               {
-                name: "Caramel Dream",
+                name: "White Chocolate waffles",
                 description: "Buttery caramel cake with salted caramel drizzle and toffee pieces",
                 price: "$52",
                 image: "/cakes/5.jpeg?height=500&width=500",
               },
               {
-                name: "Custom Creation",
+                name: "Honey Fresh Toast",
                 description: "Your dream cake designed specifically for your special occasion",
                 price: "From $60",
                 image: "/cakes/6.jpeg?height=500&width=500",
