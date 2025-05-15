@@ -93,12 +93,7 @@ export default function BakeryWebsite() {
               I wanted to bring a business idea to life—so I created a bakery brand from scratch, complete with a full digital presence. This included branding, marketing, and an e-commerce-ready website.
               This project is more than just a school requirement.
               It's a real-world application of what I have learned, and a reflection of my passion for entrepreneurship and building meaningful customer experiences.              </p>
-              <p className="text-[#7D6E83] mb-4 leading-relaxed">
-                We wanted to bring a business idea to life—so we created a bakery brand from scratch, complete with a full digital presence. This included branding, marketing, and an e-commerce-ready website.
-              </p>
-              <p className="text-[#7D6E83] mb-6 leading-relaxed">
-                This project is more than just a school requirement. It's a real-world application of what we've learned, and a reflection of our passion for entrepreneurship and building meaningful customer experiences.
-              </p>
+
               <Button className="bg-[#a95757] hover:bg-[#c45a5a] text-white">Learn More About Us</Button>
             </div>
             <div className="relative h-[400px] w-[400px] mx-auto rounded-full overflow-hidden shadow-xl">
