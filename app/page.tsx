@@ -170,7 +170,6 @@ export default function BakeryWebsite() {
                     <h3 className="font-serif text-xl">{cake.name}</h3>
                     <span className="font-medium text-[#D4A5A5]">{cake.price}</span>
                   </div>
-                  <p className="text-[#7D6E83] text-sm mb-4">{cake.description}</p>
                   <Button
                     variant="outline"
                     className="w-full border-[#D4A5A5] text-white bg-[#a95757] hover:bg-[#c45a5a] hover:text-white"
