@@ -118,37 +118,31 @@ export default function BakeryWebsite() {
             {[
               {
                 name: "Chocolate mini Pancake",
-                description: "Light chocolate sponge with Swiss meringue buttercream and fresh berries",
                 price: "$45",
                 image: "/cakes/1.jpeg?height=500&width=500",
               },
               {
                 name: "Sweet lotus mini pancake",
-                description: "Rich chocolate layers with ganache filling and chocolate shavings",
                 price: "$48",
                 image: "/cakes/2.jpeg?height=500&width=500",
               },
               {
                 name: "White Chocolate mini pancake",
-                description: "Delicate strawberry cake with cream cheese frosting and fresh strawberries",
                 price: "$50",
                 image: "/cakes/3.jpeg?height=500&width=500",
               },
               {
                 name: "Chocolate waffles",
-                description: "Zesty lemon cake with lemon curd filling and Italian meringue",
                 price: "$47",
                 image: "/cakes/4.jpeg?height=500&width=500",
               },
               {
                 name: "White Chocolate waffles",
-                description: "Buttery caramel cake with salted caramel drizzle and toffee pieces",
                 price: "$52",
                 image: "/cakes/5.jpeg?height=500&width=500",
               },
               {
                 name: "Honey Fresh Toast",
-                description: "Your dream cake designed specifically for your special occasion",
                 price: "From $60",
                 image: "/cakes/6.jpeg?height=500&width=500",
                 custom: true,
